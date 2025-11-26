@@ -3,8 +3,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats-three-iota-86.vercel.app/api?username=thalesalvs21&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats-three-iota-86.vercel.app/api/top-langs?username=thalesalvs21&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats-three-iota-86.vercel.app/api?username=thalesalvs21&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&v=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats-three-iota-86.vercel.app/api/top-langs?username=thalesalvs21&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&v=1" height="150" alt="languages graph"  />
 </div>
 
 ###
