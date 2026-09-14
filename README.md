@@ -25,8 +25,6 @@
   <a href="mailto:thalesalvs21@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <br>
-  <br>
   <a href="https://thalesalves.pages.dev">
     <img src="https://img.shields.io/badge/Portf%C3%B3lio-FFB454?style=for-the-badge&logo=googlechrome&logoColor=0D1117" alt="Portfólio"/>
   </a>
