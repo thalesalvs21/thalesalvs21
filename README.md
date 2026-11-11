@@ -77,9 +77,13 @@
 
 ## Estatísticas
 
-<p>
+<p align="center">
   <img src="https://github-readme-stats-three-iota-86.vercel.app/api?username=thalesalvs21&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&v=1" height="160" alt="stats graph" />
   <img src="https://github-readme-stats-three-iota-86.vercel.app/api/top-langs?username=thalesalvs21&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&v=1" height="160" alt="languages graph" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=thalesalvs21&theme=tokyonight&hide_border=false&locale=pt_BR" height="160" alt="streak graph" />
 </p>
 
 ---
